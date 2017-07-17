@@ -1,0 +1,15 @@
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Algoritma(sorusu yanında)\Algoritma(sorusu yanında)\bin\Debug\Algoritma(sorusu yanında).exe
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Algoritma(sorusu yanında)\Algoritma(sorusu yanında)\bin\Debug\Algoritma(sorusu yanında).pdb
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Algoritma(sorusu yanında)\Algoritma(sorusu yanında)\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Algoritma(sorusu yanında)\Algoritma(sorusu yanında)\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Algoritma(sorusu yanında)\Algoritma(sorusu yanında)\obj\x86\Debug\Algoritma(sorusu yanında).csproj.GenerateResource.Cache
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Algoritma(sorusu yanında)\Algoritma(sorusu yanında)\obj\x86\Debug\Algoritma(sorusu yanında).exe
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Algoritma(sorusu yanında)\Algoritma(sorusu yanında)\obj\x86\Debug\Algoritma(sorusu yanında).pdb
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Algoritma(sorusu yanında)\Algoritma(sorusu yanında)\bin\Debug\Algoritma(sorusu yanında).exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Algoritma(sorusu yanında)\Algoritma(sorusu yanında)\bin\Debug\Algoritma(sorusu yanında).pdb
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Algoritma(sorusu yanında)\Algoritma(sorusu yanında)\obj\x86\Debug\Algoritma(sorusu yanında).csprojResolveAssemblyReference.cache
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Algoritma(sorusu yanında)\Algoritma(sorusu yanında)\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Algoritma(sorusu yanında)\Algoritma(sorusu yanında)\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Algoritma(sorusu yanında)\Algoritma(sorusu yanında)\obj\x86\Debug\Algoritma(sorusu yanında).csproj.GenerateResource.Cache
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Algoritma(sorusu yanında)\Algoritma(sorusu yanında)\obj\x86\Debug\Algoritma(sorusu yanında).exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Algoritma(sorusu yanında)\Algoritma(sorusu yanında)\obj\x86\Debug\Algoritma(sorusu yanında).pdb
